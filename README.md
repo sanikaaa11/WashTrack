@@ -6,15 +6,7 @@
 
 <p align="center">
 
-![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Realtime_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Material Design](https://img.shields.io/badge/Material_Design-3-1976D2?style=for-the-badge&logo=materialdesign&logoColor=white)
-
-![Repository Pattern](https://img.shields.io/badge/Architecture-Repository_Pattern-blueviolet?style=for-the-badge)
-![Canvas API](https://img.shields.io/badge/Invoice-Canvas_API-673AB7?style=for-the-badge)
-![WhatsApp](https://img.shields.io/badge/Sharing-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Production](https://img.shields.io/badge/Status-Production_Live-success?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-17-orange) ![Android](https://img.shields.io/badge/Android-SDK-green) ![Firebase](https://img.shields.io/badge/Firebase-Realtime%20Database-yellow) ![Material Design](https://img.shields.io/badge/UI-Material%203-blue) ![Status](https://img.shields.io/badge/Status-Production-success)
 
 </p>
 
