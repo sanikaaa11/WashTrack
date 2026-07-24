@@ -1,4 +1,4 @@
-# WashTrack 🚗💧
+# WashTrack 🚗
 
 > **Android Application for Vehicle Wash Center Management**
 >
@@ -6,11 +6,15 @@
 
 <p align="center">
 
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Android](https://img.shields.io/badge/Android-SDK-green)
-![Firebase](https://img.shields.io/badge/Firebase-Realtime%20Database-yellow)
-![Material Design](https://img.shields.io/badge/UI-Material%203-blue)
-![Status](https://img.shields.io/badge/Status-Production-success)
+![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Realtime_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Material Design](https://img.shields.io/badge/Material_Design-3-1976D2?style=for-the-badge&logo=materialdesign&logoColor=white)
+
+![Repository Pattern](https://img.shields.io/badge/Architecture-Repository_Pattern-blueviolet?style=for-the-badge)
+![Canvas API](https://img.shields.io/badge/Invoice-Canvas_API-673AB7?style=for-the-badge)
+![WhatsApp](https://img.shields.io/badge/Sharing-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Production](https://img.shields.io/badge/Status-Production_Live-success?style=for-the-badge)
 
 </p>
 
@@ -38,18 +42,33 @@ This repository contains project documentation, architecture, screenshots, and i
 
 # 📱 Application Preview
 
+<h2 align="center">📱 Application Overview</h2>
+
 <p align="center">
-
-<img src="assets/dashboard.jpeg" width="220"/>
-
-<img src="assets/add_entry.jpeg" width="220"/>
-
-<img src="assets/due_management.jpeg" width="220"/>
-
-<img src="assets/reports.jpeg" width="220"/>
-
+  <img src="assets/dashboard.jpeg" width="30%" alt="Dashboard"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/add_entry.jpeg" width="30%" alt="Add Entry"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/due_management.jpeg" width="30%" alt="Due Management"/>
 </p>
 
+<br>
+
+<p align="center">
+  <img src="assets/daily_report.jpeg" width="30%" alt="Daily Report"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/monthly_report.jpeg" width="30%" alt="Monthly Report"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/due.jpeg" width="30%" alt="Pending Due"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="assets/invoice.jpeg" width="30%" alt="Invoice"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/sent_invoice.jpeg" width="30%" alt="Invoice Shared"/>
+</p>
 ---
 
 # 📖 Problem Statement
@@ -130,37 +149,7 @@ External Services
 
 ---
 
-# 📸 Screenshots
 
-## Dashboard
-
-![Dashboard](assets/dashboard.jpeg)
-
----
-
-## Add Entry
-
-![Add Entry](assets/add_entry.jpeg)
-
----
-
-## Due Management
-
-![Due Management](assets/due_management.jpeg)
-
----
-
-## Reports
-
-![Reports](assets/reports.jpeg)
-
----
-
-## Invoice
-
-![Invoice](assets/invoice.jpeg)
-
----
 
 # 🔥 Firebase Database Structure
 
@@ -294,9 +283,10 @@ To display customer-wise dues efficiently, entries were grouped using a `HashMap
 
 Android Developer | Java | Firebase
 
-LinkedIn: *(Add your LinkedIn)*
+LinkedIn: *https://www.linkedin.com/in/sanika-lamkhade-71684b2b4/*
 
-Portfolio: *(Optional)*
+Portfolio: *https://sanikaportfoliio.netlify.app/*
+
 
 ---
 
