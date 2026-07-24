@@ -40,13 +40,13 @@ This repository contains project documentation, architecture, screenshots, and i
 
 <p align="center">
 
-<img src="assets/dashboard.jepg" width="220"/>
+<img src="assets/dashboard.jpeg" width="220"/>
 
-<img src="assets/add_entry.jepg" width="220"/>
+<img src="assets/add_entry.jpeg" width="220"/>
 
-<img src="assets/due_management.jepg" width="220"/>
+<img src="assets/due_management.jpeg" width="220"/>
 
-<img src="assets/reports.jepg" width="220"/>
+<img src="assets/reports.jpeg" width="220"/>
 
 </p>
 
@@ -134,31 +134,31 @@ External Services
 
 ## Dashboard
 
-![Dashboard](assets/dashboard.jepg)
+![Dashboard](assets/dashboard.jpeg)
 
 ---
 
 ## Add Entry
 
-![Add Entry](assets/add_entry.jepg)
+![Add Entry](assets/add_entry.jpeg)
 
 ---
 
 ## Due Management
 
-![Due Management](assets/due_management.jepg)
+![Due Management](assets/due_management.jpeg)
 
 ---
 
 ## Reports
 
-![Reports](assets/reports.jepg)
+![Reports](assets/reports.jpeg)
 
 ---
 
 ## Invoice
 
-![Invoice](assets/invoice.jepg)
+![Invoice](assets/invoice.jpeg)
 
 ---
 
