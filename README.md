@@ -31,6 +31,21 @@ Since WashTrack is a **real production application developed for actual business
 This repository contains project documentation, architecture, screenshots, and implementation details only.
 
 ---
+# 📖 Problem Statement
+
+Many local vehicle wash centers still manage their daily operations manually.
+
+Common problems include:
+
+- Maintaining paper registers
+- Tracking pending customer payments manually
+- No business analytics
+- Time-consuming report preparation
+- Difficult invoice management
+
+WashTrack replaces these manual processes with a simple Android application designed for non-technical users.
+
+---
 
 # 📱 Application Preview
 
@@ -61,23 +76,11 @@ This repository contains project documentation, architecture, screenshots, and i
   &nbsp;&nbsp;&nbsp;
   <img src="assets/sent_invoice.jpeg" width="30%" alt="Invoice Shared"/>
 </p>
----
 
-# 📖 Problem Statement
-
-Many local vehicle wash centers still manage their daily operations manually.
-
-Common problems include:
-
-- Maintaining paper registers
-- Tracking pending customer payments manually
-- No business analytics
-- Time-consuming report preparation
-- Difficult invoice management
-
-WashTrack replaces these manual processes with a simple Android application designed for non-technical users.
 
 ---
+
+
 
 # ✨ Features
 
